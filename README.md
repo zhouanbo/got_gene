@@ -1,5 +1,4 @@
 <img src="https://www.societyforscience.org/wp-content/uploads/2020/01/Regeneron-Logo-Tagline.png" width=300px />
-<img src="https://github.com/zhouanbo/got_gene/raw/master/www/mp_logo.png" width=150px />
 
 # got_gene
 
